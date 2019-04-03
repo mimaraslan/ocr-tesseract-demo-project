@@ -1,3 +1,4 @@
+package com.mimaraslan;
 import java.io.File;
 
 import net.sourceforge.tess4j.Tesseract;
