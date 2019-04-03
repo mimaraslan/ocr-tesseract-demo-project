@@ -3,7 +3,7 @@ import java.io.File;
 import net.sourceforge.tess4j.Tesseract;
 import net.sourceforge.tess4j.TesseractException;
 
-public class _001_TesseractJpg {
+public class _001_TesseractFromJpgToText {
 	public static void main(String[] args) {
 		Tesseract tesseract = new Tesseract();
 		try {

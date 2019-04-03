@@ -4,7 +4,7 @@ import net.sourceforge.tess4j.ITesseract;
 import net.sourceforge.tess4j.Tesseract;
 import net.sourceforge.tess4j.TesseractException;
 
-public class _002_TesseractTif {
+public class _003_TesseractFromTifToText {
 	public static void main(String[] args) {
 		File imageFile = new File("Example.tif");
 		ITesseract instance = new Tesseract(); // JNA Interface Mapping
