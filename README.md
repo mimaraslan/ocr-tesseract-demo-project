@@ -8,6 +8,7 @@ PDF, TIF, JPEG documents to Text parse is doing.
 
 Negative aspects:
 There are problems in Turkish and Russian alphabet characters.
+OCR Tesseract did not work in the Mac OS.
 
 -------------------------------------------------
 
