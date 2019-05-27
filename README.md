@@ -5,7 +5,7 @@ OCR Tesseract Demo Java Project
 Plus aspects:
 OCR Tesseract is open source.
 
-PDF, TIF, JPEG documents to Text parse is doing.
+PDF, TIF, TIFF, JPEG, JPG documents to Text parse is doing.
 
 
 Negative aspects:
